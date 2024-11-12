@@ -1,0 +1,14 @@
+/* Eliminăm scrollbar-ul */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2E2E2E;
+    overflow: hidden;
+}
+
+/* Stil pentru fundalul aplicației */
+html, body, #react-entry-point {
+    height: 100%;
+    width: 100%;
+    background-color: #2E2E2E;
+}
